@@ -1,5 +1,10 @@
 # GreenLab-SmartFlowerpot
 Full-stack design and implementation of smart flowerpot as part of Cisco NAG IoT 2017 competition.
+Contributors: @AlesKubicek, @VojtechKaniok
+
+Video 1: [Design and PCB manufacturing](https://drive.google.com/file/d/0B7qzAMdT2lraRVIxd191VTBpYkk/view?usp=sharing)
+
+Video 2: [Final version](https://drive.google.com/file/d/0B7qzAMdT2lraQzZTQk52a2l5a1U/view?usp=sharing)
 
 ### 3D design
 - Tinkercad
